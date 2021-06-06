@@ -1,0 +1,6 @@
+/home/yip/桌面/segmentSingleFrame/build/CMakeFiles/rebuild_cache.dir
+/home/yip/桌面/segmentSingleFrame/build/CMakeFiles/edit_cache.dir
+/home/yip/桌面/segmentSingleFrame/build/src/CMakeFiles/rebuild_cache.dir
+/home/yip/桌面/segmentSingleFrame/build/src/CMakeFiles/edit_cache.dir
+/home/yip/桌面/segmentSingleFrame/build/src/CMakeFiles/depth_segmentation.dir
+/home/yip/桌面/segmentSingleFrame/build/src/CMakeFiles/singleSeg.dir

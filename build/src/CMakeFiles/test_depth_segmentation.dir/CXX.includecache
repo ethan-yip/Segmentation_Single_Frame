@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yip/桌面/segmentSingleFrame/src/test_depth_segmentation.cpp
+glog/logging.h
+-
+gtest/gtest.h
+-
+depth_segmentation/common.h
+/home/yip/桌面/segmentSingleFrame/src/depth_segmentation/common.h
+depth_segmentation/depth_segmentation.h
+/home/yip/桌面/segmentSingleFrame/src/depth_segmentation/depth_segmentation.h
+depth_segmentation/testing_entrypoint.h
+/home/yip/桌面/segmentSingleFrame/src/depth_segmentation/testing_entrypoint.h
+

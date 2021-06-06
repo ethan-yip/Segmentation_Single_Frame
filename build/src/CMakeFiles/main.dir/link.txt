@@ -1,0 +1,1 @@
+g++    -rdynamic CMakeFiles/main.dir/main.cpp.o  -o ../../bin/main  -L/home/yip/桌面/segmentSingleFrame/lib 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libdepth_segmentation.a  CMakeFiles/depth_segmentation.dir/depth_segmentation.cpp.o
+/usr/bin/ranlib ../../lib/libdepth_segmentation.a
